@@ -87,3 +87,17 @@ Each one involved in the project, and it includes: 1)Company. 2)Driver. 3)Manage
 ![reset](https://user-images.githubusercontent.com/100162487/168092337-93b5ae32-b124-487d-8ce0-7209022c548a.jpg)
 ![resetPass](https://user-images.githubusercontent.com/100162487/168092342-de769cc2-1b90-46ec-a6fb-e0fda4a631a2.jpg)
 
+# Here is the admin pages
+
+![parcel](https://user-images.githubusercontent.com/100162487/168093757-1bfc790e-4620-47e8-900d-968c6527596d.jpg)
+![admin](https://user-images.githubusercontent.com/100162487/168093765-5a497a00-7728-4d4e-9423-3abfe637a6a0.jpg)
+![company](https://user-images.githubusercontent.com/100162487/168093769-fb3b90fd-7888-4e42-8669-130698a71600.jpg)
+![dashboard](https://user-images.githubusercontent.com/100162487/168093772-2dfa9c00-a91b-4041-820b-79b1135eefef.jpg)
+![delete driver](https://user-images.githubusercontent.com/100162487/168093775-bc3e9b54-b286-42c2-ac02-2ae0ed094261.jpg)
+![driver](https://user-images.githubusercontent.com/100162487/168093778-0462da2a-8582-499b-8346-b58f10d074c2.jpg)
+![edit company](https://user-images.githubusercontent.com/100162487/168093781-2274c7fd-2e62-4158-804f-6244faaa0767.jpg)
+![edit driver](https://user-images.githubusercontent.com/100162487/168093783-606b8bcd-8146-45ac-8896-816b9cfd6714.jpg)
+![editadmin](https://user-images.githubusercontent.com/100162487/168093787-58e22887-223a-427f-9edf-e84c5bd59056.jpg)
+![editmanager](https://user-images.githubusercontent.com/100162487/168093789-4b4605b5-8e09-47b9-8fcd-999e18be167f.jpg)
+![manager](https://user-images.githubusercontent.com/100162487/168093793-181d8b4a-2183-4b99-b771-d2533af1d856.jpg)
+
