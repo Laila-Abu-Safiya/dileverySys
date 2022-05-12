@@ -81,4 +81,9 @@ patterns helps communication between designers, and can ease the documentation e
 # Stakeholders
 
 Each one involved in the project, and it includes: 1)Company. 2)Driver. 3)Manager. 4)Admin.
+ 
+# Here is login sginup and reset password pages
+![login](https://user-images.githubusercontent.com/100162487/168092322-4ace81ec-fd11-47c4-9803-2df647b4cea9.jpg)
+![reset](https://user-images.githubusercontent.com/100162487/168092337-93b5ae32-b124-487d-8ce0-7209022c548a.jpg)
+![resetPass](https://user-images.githubusercontent.com/100162487/168092342-de769cc2-1b90-46ec-a6fb-e0fda4a631a2.jpg)
 
