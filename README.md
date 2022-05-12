@@ -122,3 +122,8 @@ Each one involved in the project, and it includes: 1)Company. 2)Driver. 3)Manage
 ![editPackage](https://user-images.githubusercontent.com/100162487/168094810-05065a62-8f5c-43a5-af44-036d9cf2e84a.jpg)
 
 # Here is Driver pages
+![cancelParcel](https://user-images.githubusercontent.com/100162487/168095270-dedfc302-96c4-4256-a6d6-7aea555d9b6e.jpg)
+![Delayedparcel](https://user-images.githubusercontent.com/100162487/168095278-49e67cc0-c46a-4c44-ab16-dc901de9c38c.jpg)
+![deliverdParcel](https://user-images.githubusercontent.com/100162487/168095286-8631dc2d-2ad3-4b75-b4f9-13b41e72ca17.jpg)
+![editStatusPrcel](https://user-images.githubusercontent.com/100162487/168095291-592f07b4-4165-4d28-bd1e-57f744528063.jpg)
+![parceltoDeliver](https://user-images.githubusercontent.com/100162487/168095293-bcb2a3a5-9a24-4aeb-a4fe-7ad21087dfb4.jpg)
